@@ -1,7 +1,7 @@
 {
     "arch": "x86_64",
     "cpu": "Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz",
-    "machine": "sinosov-vm.sas.yp-c.yandex.net",
+    "machine": "vm",
     "num_cpu": "16",
     "os": "Linux 4.19.100-23",
     "ram": "16GB",
